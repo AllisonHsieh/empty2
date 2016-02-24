@@ -7,7 +7,11 @@ any branch
 
 <<<<<<< HEAD
 0308 from pc 
+<<<<<<< HEAD
 =======
 i am in HsinChu
 Loca: HsinChu
 >>>>>>> refs/remotes/origin/empty2-patch-1
+=======
+0309 from pc
+>>>>>>> origin/empty-patch-1
