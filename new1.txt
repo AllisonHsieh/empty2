@@ -5,4 +5,9 @@ my name is allison
 any branch
 >>>>>>> origin/master
 
+<<<<<<< HEAD
 0308 from pc 
+=======
+i am in HsinChu
+Loca: HsinChu
+>>>>>>> refs/remotes/origin/empty2-patch-1
