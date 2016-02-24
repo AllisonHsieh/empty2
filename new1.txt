@@ -6,3 +6,4 @@ any branch
 >>>>>>> origin/master
 
 i am in HsinChu
+Loca: HsinChu
