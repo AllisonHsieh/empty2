@@ -14,4 +14,8 @@ Loca: HsinChu
 >>>>>>> refs/remotes/origin/empty2-patch-1
 =======
 0309 from pc
+<<<<<<< HEAD
+>>>>>>> origin/empty-patch-1
+=======
+0315 from local
 >>>>>>> origin/empty-patch-1
