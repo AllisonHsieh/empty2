@@ -4,20 +4,4 @@ here is local
 my name is allison
 any branch
 >>>>>>> origin/master
-
-<<<<<<< HEAD
-0308 from pc 
-<<<<<<< HEAD
-=======
-i am in HsinChu
-Loca: HsinChu
->>>>>>> refs/remotes/origin/empty2-patch-1
-=======
-0309 from pc
-<<<<<<< HEAD
->>>>>>> origin/empty-patch-1
-=======
-0315 from local
->>>>>>> origin/empty-patch-1
-
-0448 from local
+0452 from local
