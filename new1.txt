@@ -4,4 +4,10 @@ here is local
 my name is allison
 any branch
 >>>>>>> origin/master
+<<<<<<< HEAD
 0452 from local
+=======
+
+0308 from pc 
+20160226 9:22
+>>>>>>> origin/master3
